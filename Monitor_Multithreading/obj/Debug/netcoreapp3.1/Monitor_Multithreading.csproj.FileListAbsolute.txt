@@ -1,0 +1,13 @@
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\bin\Debug\netcoreapp3.1\Monitor_Multithreading.exe
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\bin\Debug\netcoreapp3.1\Monitor_Multithreading.deps.json
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\bin\Debug\netcoreapp3.1\Monitor_Multithreading.runtimeconfig.json
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\bin\Debug\netcoreapp3.1\Monitor_Multithreading.runtimeconfig.dev.json
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\bin\Debug\netcoreapp3.1\Monitor_Multithreading.dll
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\bin\Debug\netcoreapp3.1\Monitor_Multithreading.pdb
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\obj\Debug\netcoreapp3.1\Monitor_Multithreading.csproj.AssemblyReference.cache
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\obj\Debug\netcoreapp3.1\Monitor_Multithreading.AssemblyInfoInputs.cache
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\obj\Debug\netcoreapp3.1\Monitor_Multithreading.AssemblyInfo.cs
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\obj\Debug\netcoreapp3.1\Monitor_Multithreading.csproj.CoreCompileInputs.cache
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\obj\Debug\netcoreapp3.1\Monitor_Multithreading.dll
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\obj\Debug\netcoreapp3.1\Monitor_Multithreading.pdb
+D:\C#\Monitor_Multithreading\Monitor_Multithreading\obj\Debug\netcoreapp3.1\Monitor_Multithreading.genruntimeconfig.cache
